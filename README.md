@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-[![Wenjia Zhu‘s GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandasang1231&show_icons=true&count_private=true)](https://github.com/PANDASANG1231)
+[![Wenjia Zhu‘s GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandasang1231&show_icons=true&count_private=true&theme=radical)](https://github.com/PANDASANG1231)
