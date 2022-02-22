@@ -27,7 +27,7 @@ Welcome to my Github page! My name is Wenjia Zhu, and I'm currently a Master of 
 
 ### Repositories
 
-Some interesting projects I have worked on:
+**Practical projects I have worked on:**
 
 - Developed data science tool/packages for simplifing routine work  - [Python Tool](https://github.com/PANDASANG1231/tools)
 
@@ -38,6 +38,13 @@ Some interesting projects I have worked on:
 <br />
 
 
+**Learning related projects :**
+
+- Machine_learning_byHand: UBC CS430M, deployment of traditional ML algorithms from scratch - [view](https://github.com/PANDASANG1231/Machine_learning_byHand)
+
+- Deep_learning_byHand: deployment of deeplearning algorithms from scratch and using Pytorch. Topics include: Mlp, CNN, RNN, NLP, Transformer, Attention - [view](https://github.com/PANDASANG1231/Deeplearning_byHand)
+
+- Leetcode_byHand: Prepare for online coding in algorithom and SQL - [view](https://github.com/PANDASANG1231/Leetcode_byHand)
 
 <!--
 - Used reinforcement learning (RL) to solve a random maze - [view](https://github.com/joshsia/random-maze-rl)
