@@ -32,7 +32,7 @@ Welcome to my Github page! My name is Wenjia Zhu, and I'm currently a Master of 
 
 - Developed a Dashboard to illustrate high-level political status in Canada and generate reports in BIRS_CIH Hackthon - [source code](https://github.com/PANDASANG1231/BIRS_CIH_dashboard), [report](https://github.com/PANDASANG1231/BIRS_CIH_dashboard/blob/main/doc/Report%20Final.ipynb)
 
-![dashboard](https://github.com/PANDASANG1231/BIRS_CIH_dashboard/blob/main/output/overview.jpg)
+<img src="https://github.com/PANDASANG1231/BIRS_CIH_dashboard/blob/main/output/overview.jpg" width="100px">
 
 <br />
 
