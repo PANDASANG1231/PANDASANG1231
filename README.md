@@ -20,13 +20,17 @@ Here are some ideas to get you started:
 
 Welcome to my Github page! My name is Wenjia Zhu, and I'm currently a Master of Data Science student at the University of British Columbia (graduating in June 2022). Prior to this, I have worked as a Data Scientist in Companies such as Alipay and PPdai for 4 years in China.
 
+### Github Stats
+
+[![Wenjia Zhu‘s GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandasang1231&show_icons=true&count_private=true&theme=radical)](https://github.com/PANDASANG1231)
+
 ### Repositories
 
 **Practical projects I have worked on:**
 
 - Developed data science tool/packages for simplifing routine work  - [Python Tool](https://github.com/PANDASANG1231/tools)
 
-- Developed a Dashboard to illustrate high-level political status in Canada and generate reports in BIRS_CIH Hackthon - [source code](https://github.com/PANDASANG1231/BIRS_CIH_dashboard) [report](https://github.com/PANDASANG1231/BIRS_CIH_dashboard/blob/main/doc/Report%20Final.ipynb)
+- Developed a Dashboard to illustrate high-level political status in Canada and generate reports in BIRS_CIH Hackthon - [source code](https://github.com/PANDASANG1231/BIRS_CIH_dashboard), [report](https://github.com/PANDASANG1231/BIRS_CIH_dashboard/blob/main/doc/Report%20Final.ipynb)
 
 ![dashboard](https://github.com/PANDASANG1231/BIRS_CIH_dashboard/blob/main/output/overview.jpg)
 
@@ -40,10 +44,6 @@ Welcome to my Github page! My name is Wenjia Zhu, and I'm currently a Master of 
 - Deep_learning_byHand: deployment of deeplearning algorithms from scratch and using Pytorch. Topics include: Mlp, CNN, RNN, NLP, Transformer, Attention - [view](https://github.com/PANDASANG1231/Deeplearning_byHand)
 
 - Leetcode_byHand: Prepare for online coding in algorithom and SQL - [view](https://github.com/PANDASANG1231/Leetcode_byHand)
-
-### Github Stats
-
-[![Wenjia Zhu‘s GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandasang1231&show_icons=true&count_private=true&theme=radical)](https://github.com/PANDASANG1231)
 
 <!--
 - Used reinforcement learning (RL) to solve a random maze - [view](https://github.com/joshsia/random-maze-rl)
