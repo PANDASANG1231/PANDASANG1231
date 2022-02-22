@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![](https://img.shields.io/badge/LinkedIn-zhuwenjia-blue)](https://www.linkedin.com/in/wenjia-zhu/)
+[![](https://img.shields.io/badge/Gmail-zhuwenjia.mail%40gmail.com-red)](zhuwenjia.mail@gmail.com)
 
 ### Github Stats
 
