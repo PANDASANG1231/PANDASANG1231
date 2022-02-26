@@ -28,7 +28,7 @@ Welcome to my Github page! My name is Wenjia Zhu, and I'm currently a Master of 
 
 **Practical projects I have worked on:**
 
-- Developed data science tool/packages for simplifing routine work  - [Python Tool](https://github.com/PANDASANG1231/tools)
+- Developed data science tool/packages for simplifing routine work, you can access the package on PYPI  - [Python risk_model_tool](https://github.com/PANDASANG1231/risk_model_tool)
 
 - Developed a Dashboard to illustrate high-level political status in Canada and generate reports in BIRS_CIH Hackthon - [source code](https://github.com/PANDASANG1231/BIRS_CIH_dashboard), [report](https://github.com/PANDASANG1231/BIRS_CIH_dashboard/blob/main/doc/Report%20Final.ipynb)
 
