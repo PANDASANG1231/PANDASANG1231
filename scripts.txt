@@ -1,0 +1,95 @@
+Introduction:
+
+"Thanks Mona, I will walk you through our system architecture and the various components we use to streamline our development and data processes."
+
+Development Environment:
+
+"Let's start with the development environment. We have two primary user roles: App Developers and Data Scientists. Both roles utilize code editors, but they have distinct preferences. App Developers mainly use Visual Studio Code, whereas Data Scientists prefer Jupyter notebooks. This allows each role to work in the environment that best suits their needs."
+
+Code Management:
+
+"Next, we manage our code using Bitbucket, which integrates seamlessly with our development tools. Our workflow includes continuous integration and automated testing, ensuring that our codebase remains robust and free of errors. This setup facilitates smooth collaboration and efficient version control."
+
+Model Training Environment:
+
+"Moving on to the model training environment, we use Databricks in combination with MLflow. This powerful duo enables us to build, train, and track our machine learning models efficiently. Databricks provides a scalable platform for big data processing, while MLflow helps us manage the lifecycle of our machine learning projects."
+
+Data Storage:
+
+"For data storage, we leverage Delta Lake and Synapse. Delta Lake ensures data reliability and high performance by providing ACID transactions and scalable metadata handling. Synapse, on the other hand, offers a unified analytics experience, enabling us to ingest, prepare, manage, and serve data for immediate business intelligence and machine learning needs."
+
+Dashboard & Web:
+
+"Our dashboard and web solutions include Posit, Tableau, and the Databricks Dashboard. Posit and Tableau are well-known tools for creating interactive and informative dashboards, helping us visualize our data effectively. The Databricks Dashboard allows us to monitor and manage our Databricks environment, providing insights into our data pipelines and model performance."
+
+Others:
+
+"Finally, we have our miscellaneous components. ADIDO out and Combo ADIDO are used for data input and output operations. These tools ensure seamless data flow between different systems and components within our architecture."
+
+Conclusion:
+
+"That concludes our overview of the system architecture. This integrated approach allows us to manage our development processes efficiently, ensure data integrity, and provide valuable insights through our dashboards and analytical tools. Thank you for your attention, and I'm happy to take any questions you may have."
+
+
+
+
+
+
+
+MLflow is an open-source platform designed to manage the end-to-end machine learning lifecycle. It supports experimentation, reproducibility, and deployment of machine learning models, making it an indispensable tool for our data science team."
+
+Key Components:
+
+"Let's break down the key components of MLflow:"
+
+Tracking:
+"The tracking component allows us to log and query experiments efficiently. We can record and visualize metrics, parameters, and artifacts, which helps in monitoring and comparing different runs of our machine learning models."
+
+Projects:
+"MLflow Projects provide a standardized way to package our data science code in a reusable and reproducible form. This ensures that our experiments can be easily replicated and shared among team members."
+
+Models:
+"With MLflow Models, we can manage and deploy models from various machine learning libraries. This component streamlines the process of moving models from development to production, ensuring consistency and reliability."
+
+Registry:
+"The MLflow Registry acts as a centralized model store, facilitating collaborative model management. It provides versioning, stage transitions, and annotations, making it easier to keep track of model iterations and their statuses."
+
+Integration with Databricks:
+
+"One of the significant advantages of using MLflow is its seamless integration with Databricks. This integration allows us to leverage Databricks' scalable infrastructure for big data processing and ML model training. The combined power of Databricks and MLflow enables us to streamline our workflows and enhance productivity."
+
+Benefits:
+
+"In summary, MLflow offers several benefits:"
+
+"It improves collaboration and productivity by providing a unified platform for managing machine learning workflows."
+"Enhanced reproducibility and traceability ensure that our experiments are reliable and easily replicable."
+"Finally, MLflow simplifies the deployment of models, allowing us to bring our solutions to production faster and more efficiently."
+Conclusion:
+
+"MLflow is a pivotal tool in our machine learning toolkit, helping us manage the complexities of the ML lifecycle with ease and efficiency. Thank you for listening, and I'm open to any questions you might have about MLflow."
+
+
+
+
+
+
+
+Posit Connect:
+
+"Posit Connect supports a variety of frameworks and tools, making it incredibly versatile. As you can see, we can deploy applications built with FastAPI, Dash by Plotly, Streamlit, Flask, Shiny, R Markdown, and Jupyter notebooks. This flexibility allows our team to choose the best tools for their specific needs while maintaining a consistent deployment process."
+
+Deployment Process:
+
+"The deployment process with Posit Connect is straightforward. We can deploy end-to-end projects with just a few clicks, ensuring our work is easily accessible to our users. This includes applications, dashboards, and APIs that are crucial for our data-driven decision-making."
+
+Scheduler:
+
+"An important feature of Posit Connect is the scheduler. It allows us to automate tasks and schedule reports, ensuring that our data products are always up-to-date. This automation capability is vital for maintaining the accuracy and timeliness of our information."
+
+User Interaction and API Management:
+
+"Posit Connect also facilitates user interaction and API management. It supports user authentication and authorization, allowing us to control access to our applications securely. Moreover, it enables us to manage APIs effectively, providing a robust framework for integrating our data products with other systems."
+
+
+
